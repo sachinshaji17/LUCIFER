@@ -36,7 +36,7 @@
 
 
 ## Deploy
-You can deploy this on [HEROKU.COM](https://heroku.com) & [RAILWAY](https://railway.app)
+You can deploy this on [HEROKU.COM](https://heroku.com/deploy?template=https://github.com/sachinshaji17/LUCIFER) & [RAILWAY](https://railway.app)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LUCIFER)
 
